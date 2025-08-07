@@ -58,6 +58,6 @@ Un analista puede utilizar estas evaluaciones y los informes de la evaluación p
 Se centra en realizar investigaciones e implementar medidas preventivas cuando se detecta un incidente de seguridad. Si hay un ataque activo, mitigar el ataque y evitar que siga escalando es esencial para garantizar que la información privada esté protegida de los agentes de amenaza. Cuando se neutraliza, se recopilan pruebas digitales y físicas para hacer una investigación forense. De esta manera se va a poder identificar cuándo, cómo y por qué se produjo la brecha y así poder aplicar medidas preventivas.
 
 
-## 8- Seguridad en el desarrollo de software
+### 8- Seguridad en el desarrollo de software
 
 Es el uso de práticas de programación seguras. Durante el ciclo de vida de desarrollo de software, un paso importante es el de la seguridad. Al garantizar que cada fase del ciclo de vida de desarrollo de software se somete a revisiones de seguridad, la seguridad puede integrarse completamente en el producto final. Esto mantiene el software y los datos sensibles protegidos. 
