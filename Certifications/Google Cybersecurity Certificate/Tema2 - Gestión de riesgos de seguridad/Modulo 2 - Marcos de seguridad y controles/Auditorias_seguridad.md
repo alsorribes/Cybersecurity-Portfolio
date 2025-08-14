@@ -9,6 +9,8 @@ Una auditoría de seguridad es una revisión de los controles, políticas y proc
     - Completar una evaluación de controles
     - Evaluar el cumplimiento y comunicar los resultados a la parte interesada.
 
+    Ahora vamos a explicar cada uno más detalladamente.
+
     - **Establecer el alcance:** Se refiere a los criterios específicos de una auditoría de seguridad interna. El alcance exige que las organizaciones identifiquen a las personas, los activos, las políticas, los procedimientos y las tecnologías que podrían afectar a la postura de seguridad de una organización. Las metas son un resumen de los objetivos de seguridad de la organización para mejorar su postura de seguridad. 
 
     - **Evaluación de riesgos:** Se centra en identificar posibles amenazas, riesgos y vulnerabilidades. Esto ayuda a las organizaciones a considerar qué medidas de seguridad deben implementarse para garantizar la seguridad de los activos.
