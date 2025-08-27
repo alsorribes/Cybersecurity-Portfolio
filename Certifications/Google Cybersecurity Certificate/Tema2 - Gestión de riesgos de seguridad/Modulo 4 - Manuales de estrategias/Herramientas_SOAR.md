@@ -1,0 +1,3 @@
+# Herramientas SOAR
+
+Las herramientas SOAR (Orquestación, automatización y respuesta de seguridad) son muy similares a las herramientas SIEM ya que también se utilizan para la supervisión de amenazas. SOAR es una pieza de software utilizada para automatizar tareas repetitivas generadas por herramientas como un SIEM o una detección y respuesta gestionadas. Un ejemplo sería que si un usuario intenta iniciar sesión muchas veces con credenciales incorrectas, un SOAR bloquearía directamente su cuenta para evitar una posible intrusión.
