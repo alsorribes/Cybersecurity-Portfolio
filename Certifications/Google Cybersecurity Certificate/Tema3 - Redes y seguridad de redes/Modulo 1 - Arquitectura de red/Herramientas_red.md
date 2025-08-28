@@ -12,7 +12,11 @@ En este apartado vamos a ver los distintos componentes físicos que forman una r
 
 - **Módems:** Conecta una LAN con un proveedor de servicios de Internet (ISP). Los ISP proporcionan conexión a Internet a través de líneas telefónicas, los módems reciben las señales digitales de Internet y las convierten en un formato digital compatible con la conexión física (Linea telefóncia o fibra óptica) que le proporciona su ISP. Normalmente, los módems se conectan a un router que tomará estas señales y las enviará a una red local.
 
-![Modem](img/modem.png)
+<p align="center">
+  <img src="img/modem.png" alt="Modem" width="300">
+</p>
+
+
 
 
 ![Dispositivos_red](img/dispositivos_red.png)
