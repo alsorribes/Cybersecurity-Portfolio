@@ -13,13 +13,12 @@ En este apartado vamos a ver los distintos componentes físicos que forman una r
 - **Módems:** Conecta una LAN con un proveedor de servicios de Internet (ISP). Los ISP proporcionan conexión a Internet a través de líneas telefónicas, los módems reciben las señales digitales de Internet y las convierten en un formato digital compatible con la conexión física (Linea telefóncia o fibra óptica) que le proporciona su ISP. Normalmente, los módems se conectan a un router que tomará estas señales y las enviará a una red local.
 
 <p align="center">
-  <img src="img/modem.png" alt="Modem" width="300">
+  <img src="img/modem.png" alt="Modem" width="600">
 </p>
 
-
-
-
-![Dispositivos_red](img/dispositivos_red.png)
+<p align="center">
+  <img src="img/dispositivos_red.png" alt="Dispositivos" width="800">
+</p>
 
 Todos estos dispositivos físicos pueden ser completados por herramientas de virtualización. 
 
@@ -31,15 +30,21 @@ En la red también podemos encontrar otros dispositivos que debemos tener en cue
 
 - **Servidores:** Proporcionan información y servicios para todos los dispositivos que se conectan a él, también conocidos como clientes. Un ejemplo muy conocido es el modelo cliente-servidor. Los clientes envian peticiones de información y servicios al servidor y este, realiza las peticiones a la BBDD para los clientes. 
 
-![Servidor](img/modelo_cliente-servidor.png)
+<p align="center">
+  <img src="img/modelo_cliente-servidor.png" alt="Servidor" width="600">
+</p>
 
 - **Punto de acceso inalámbrico:** Envía y recibe señales digitales a través de ondas de radio creando una red inalámbrica. Los dispositivos con adaptadores inalámbricos se conectan al punto de acceso mediante Wi-Fi. **Wi-Fi** hace referencia a un conjunto de estándares que utilizan los dispositivos de red para comunicarse de forma inalámbrica y enviar datos a través de ondas de radio. 
 
-![Wireless](img/wireless.png)
+<p align="center">
+  <img src="img/wireless.png" alt="Wireless" width="800">
+</p>
 
 
 ### Diagramas de red
 
 Los diagramas de red son mapas que muestran los dispositivos de una red y cómo se conectan. Utilizan pequeños gráficos para representar cada dispositivo de la red y líneas de puntos para mostrar cómo se conectan entre ellos. Mediante su estudio, los analistas desarrollan y perfeccionan sus estrategias para proteger las arquitecturas de red.
 
-![Diagrama](img/diagrama.png)
+<p align="center">
+  <img src="img/diagrama.png" alt="Diagrama" width="800">
+</p>
