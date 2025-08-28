@@ -16,6 +16,8 @@ En este apartado vamos a ver los distintos componentes físicos que forman una r
   <img src="img/modem.png" alt="Modem" width="600">
 </p>
 
+<br><br>
+
 <p align="center">
   <img src="img/dispositivos_red.png" alt="Dispositivos" width="800">
 </p>
@@ -23,6 +25,8 @@ En este apartado vamos a ver los distintos componentes físicos que forman una r
 Todos estos dispositivos físicos pueden ser completados por herramientas de virtualización. 
 
 - **Herramientas de virtualización:** Piezas de software que realizan operaciones de red y que llevan a cabo tareas que haría un dispositivo físico de los mencionados anteriormente. Normalmente son ofrecidas por los proveedores de servicio en la nube. Ofrecen ahorro de costes y mayor escalabilidad. 
+
+<br>
 
 En la red también podemos encontrar otros dispositivos que debemos tener en cuenta y saber como se desempeñan:
 
@@ -34,12 +38,15 @@ En la red también podemos encontrar otros dispositivos que debemos tener en cue
   <img src="img/modelo_cliente-servidor.png" alt="Servidor" width="600">
 </p>
 
+<br>
+
 - **Punto de acceso inalámbrico:** Envía y recibe señales digitales a través de ondas de radio creando una red inalámbrica. Los dispositivos con adaptadores inalámbricos se conectan al punto de acceso mediante Wi-Fi. **Wi-Fi** hace referencia a un conjunto de estándares que utilizan los dispositivos de red para comunicarse de forma inalámbrica y enviar datos a través de ondas de radio. 
 
 <p align="center">
   <img src="img/wireless.png" alt="Wireless" width="800">
 </p>
 
+<br>
 
 ### Diagramas de red
 
