@@ -43,7 +43,7 @@ En la red también podemos encontrar otros dispositivos que debemos tener en cue
 - **Punto de acceso inalámbrico:** Envía y recibe señales digitales a través de ondas de radio creando una red inalámbrica. Los dispositivos con adaptadores inalámbricos se conectan al punto de acceso mediante Wi-Fi. **Wi-Fi** hace referencia a un conjunto de estándares que utilizan los dispositivos de red para comunicarse de forma inalámbrica y enviar datos a través de ondas de radio. 
 
 <p align="center">
-  <img src="img/wireless.png" alt="Wireless" width="800">
+  <img src="img/wireless.png" alt="Wireless" width="600">
 </p>
 
 <br>
