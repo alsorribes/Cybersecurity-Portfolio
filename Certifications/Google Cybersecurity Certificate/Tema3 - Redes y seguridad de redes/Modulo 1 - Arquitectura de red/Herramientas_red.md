@@ -19,7 +19,7 @@ En este apartado vamos a ver los distintos componentes físicos que forman una r
 <br><br>
 
 <p align="center">
-  <img src="img/dispositivos_red.png" alt="Dispositivos" width="800">
+  <img src="img/dispositivos_red.png" alt="Dispositivos" width="600">
 </p>
 
 Todos estos dispositivos físicos pueden ser completados por herramientas de virtualización. 
@@ -53,5 +53,5 @@ En la red también podemos encontrar otros dispositivos que debemos tener en cue
 Los diagramas de red son mapas que muestran los dispositivos de una red y cómo se conectan. Utilizan pequeños gráficos para representar cada dispositivo de la red y líneas de puntos para mostrar cómo se conectan entre ellos. Mediante su estudio, los analistas desarrollan y perfeccionan sus estrategias para proteger las arquitecturas de red.
 
 <p align="center">
-  <img src="img/diagrama.png" alt="Diagrama" width="800">
+  <img src="img/diagrama.png" alt="Diagrama" width="600">
 </p>
