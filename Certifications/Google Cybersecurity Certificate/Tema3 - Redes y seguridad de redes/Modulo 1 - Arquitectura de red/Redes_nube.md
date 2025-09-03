@@ -28,3 +28,14 @@ Cuando las organizaciones utilizan los servicios de un CSP además de sus ordena
 
 ### Redes definidas por software
 
+Las redes definidas por software (SDN) están formadas por dispositivos y servicios de red virtuales. Al igual que las CSP proporcionan computadoras virtuales, muchas SDN también proporcionan conmutadores virtuales, routers, firewalls y más. 
+
+<br>
+
+### Beneficios de la computación en la nube y las redes definidas por software
+
+- **Confiabilidad:** La fiabilidad en la computación de la nube se basa en el grado de disponibilidad de los servicios y recursos de la nube, la seguridad de las conexiones y la frecuencia con la que los servidores funcionan eficazmente. Permite a empleados y clientes acceder a recursos de forma constante y con una interrupción mínima.
+
+- **Costes:** Al principio las empresas tenian que proporcionar su propia infraestructura de red lo que les suponía un gran coste incial para ellas. Ahora, como los CSP disponen de centros de datos grandes, pueden ofrecer dispositivos y servicios a un coste muy menor. 
+
+- **Escalabilidad:** Las empresas pueden crecer o decrecer durante un periodo de tiempo. Es por ello que los CSP reducen este riesgo facilitando el consumo de servicios según las necesiades de la empresa, son muy flexibles. Las empresas solo pagan por lo que necesitan y cuando lo necesitan. Además, hacer estos cambios es mucho más rápido que si tuvieran que comprar un nuevo hardware y configurarlo. 
