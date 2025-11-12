@@ -1,6 +1,6 @@
 # Sniffing de paquetes maliciosos
 
-La detección de paquetes es la práctica de utilizar herramientas de software para observar los datos a medida que se mueven por una red. 
+La detección de paquetes es la práctica de utilizar herramientas de software para observar los datos (paquetes) a medida que se mueven por una red. 
 
 Sin embargo, los atacantes pueden usar el sniffing de paquetes para analizar los datos que no se les han enviado. Su objetivo es encontrar información valiosa en los paquetes de datos que luego van a usar en su beneficio. Además, pueden acceder a un paquete de red con un rastreador de paquetes y realizar cambios en los datos, como modificar el número de cuenta bancaria del destinatario. 
 

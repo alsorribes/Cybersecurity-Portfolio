@@ -8,6 +8,6 @@ Algunos ataques de de suplantación de IP más comunes son:
 
 - **Ataque de repetición:** Ataque de red que se realiza cuando un atacante intercepta un paquete de datos en tránsito y lo retrasa o lo repite en otro momento. Un paquete retrasado puede provocar problemas de conexión entre los equipos de destino y un atacante puede tomar una transmisión de red enviada por un usuario autorizado y repetirla mas adelante para hacerse pasar por dicho usuario. 
 
-- **Ataque de pitufos:** Es una combinación de un ataque DDoS y un ataque de suplantación de IP. El atacante detecta la dirección IP de un usuario y lo inunda de paquetes. Esto satura el equipo de destino y puede provocar la caída de un servidor o toda una red. 
+- **Ataque de pitufos (Smurf):** Es una combinación de un ataque DDoS y un ataque de suplantación de IP. El atacante detecta la dirección IP de un usuario y lo inunda de paquetes. Esto satura el equipo de destino y puede provocar la caída de un servidor o toda una red. 
 
 Para poder proteger la red de estos ataques la mejor manera es usar el cifrado de los datos para que nadie pueda leerlos y el uso de firewalls para proteger contra la suplantación de IP.
