@@ -1,0 +1,7 @@
+# Endurecimiento de seguridad
+
+Es el proceso de reforzar un sistema para reducir su vulnerabilidad y superficie de ataque. Todas las vulnerabilidades potenciales que un atacante podría explotar se denominan superficie de ataque de un sistema. 
+
+Los analistas de seguirdad realizan procedimientos regulares de mantenimiento para mantener los dispositivos y sistemas de red funcionando de forma segura y óptima. El endurecimiento de seguridad puede llevarse a cabo en cualquier dispositivo o sistema que pude verse comprometido, ya sea hardware o software.
+
+Algunos tipos habituales de procedimientos de endurecimiento incluyen actualizaciones de software, también llamados parches, para aumentar la seguridad y corregir vulnerabilidades de seguridad en una red. Otro tipo sería la eliminación o desactivación de aplicaciones y servicios no utilizados, la desactivación de puertos no utilizados y la reducción de los permisos de acceso en los dispositivos y la red. Minimizar todo esto hace que la supervisión de la red sea más eficiente y reduce la superficie de ataque. Otra estrategia importante es realizar pruebas de penetración periódicas, también llamadas pentest, que son ataques simulados que ayudan a identificar vulnerabilidades en un sistema, red, web o aplicación. Los pentesters documentan sus descubrimientos en un informe para que los equipos de seguridad puedan determinar el tipo de vulnerabilidades y elaborar un plan para solucionarlas.
