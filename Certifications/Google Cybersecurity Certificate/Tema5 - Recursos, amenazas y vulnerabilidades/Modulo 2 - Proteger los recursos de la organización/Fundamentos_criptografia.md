@@ -4,4 +4,4 @@ Hay cierta información que, en Internet, decidimos mantener en privado. Este ti
 
 - **Criptografía:** Es el proceso de transformar la información en una forma que los lectores no deseados no puedan entender. Datos de cualquier tipo se mantienen en secreto mediante un proceso de dos pasos: la encriptación para ocultar información y la desencriptación para mostrarla. 
 
-Es importante destacar que para descifrar información se necesita una clave criptográfica para desbloquear el mensaje. Por eso estas claves unca deben almacenarse en lugares públicos y compartirlas por separado de la información que queremos descifrar. 
+Es importante destacar que para descifrar información se necesita una clave criptográfica para desbloquear el mensaje. Por eso estas claves nunca deben almacenarse en lugares públicos y compartirlas por separado de la información que queremos descifrar. 
